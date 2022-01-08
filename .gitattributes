@@ -1,1 +1,3 @@
 *.html linguist-detectable=false
+*.toc linguist-detectable=false
+*.manifest linguist-detectable=false
